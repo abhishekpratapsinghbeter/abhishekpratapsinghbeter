@@ -36,12 +36,27 @@
 
 ## 📊 GitHub Stats, Most Used Languages, and Profile Views
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekpratapsinghbeter&show_icons=true&theme=radical)  
-(https://camo.githubusercontent.com/716fe52261842ab7672409b0c15b1e81eb678b7935024ff8f6209431f2b6c581/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69616e736873696e67683130266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekpratapsinghbeter&show_icons=true&theme=radical)  </br>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhishekpratapsingh&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpratapsinghbeter&layout=compact&theme=radical)</br>
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekpratapsinghbeter&color=blueviolet)
 
 
+---
+
+
+## 🏆 GitHub Trophies
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=abhishekpratapsingh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+---
+
+
+## 🔝 Top Contributed Repo
+![Contributor Stats](https://github-readme-contributor-stats.vercel.app/api?username=abhishekpratapsingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
 
 
 ## 📫 How to Reach Me
