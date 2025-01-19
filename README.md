@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Abhishek Pratap Singh  
 
-<!--
-**abhishekpratapsinghbeter/abhishekpratapsinghbeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Information Technology** graduate from United College of Engineering and Research, Prayagraj.  
+💻 Passionate about **Software Development**, **Full Stack Development**, and building impactful **AI-driven solutions**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do  
+- 🌐 **Full Stack Development**: Proficient in the MERN stack and microservices architecture.  
+- 🎨 Creating innovative projects and tools to solve real-world problems.  
+
+---
+
+## 🔭 Current Projects  
+- 🚀 **AttendXpert**: A smart attendance system with React, Node.js, and MongoDB.  
+
+---
+
+## 📈 Interests  
+- Exploring **Product Management** and the **Product Development Lifecycle**.  
+- Staying at the forefront of technology and innovation.  
+
+---
+
+## 📫 How to Reach Me  
+- 💼 [LinkedIn](www.linkedin.com/in/abhishek-pratap-singh-88523a207)  
+- 📧 Email: [abhishekpratapsinghb2024@gmail.com](mailto:abhishekpratapsinghb2024@gmail.com)  
+
+---
+
+Let’s connect and create something extraordinary! 🚀  
