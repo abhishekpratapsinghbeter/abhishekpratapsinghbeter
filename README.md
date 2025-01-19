@@ -37,6 +37,7 @@
 ## 📊 GitHub Stats, Most Used Languages, and Profile Views
 
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekpratapsinghbeter&show_icons=true&theme=radical)  
+(https://camo.githubusercontent.com/716fe52261842ab7672409b0c15b1e81eb678b7935024ff8f6209431f2b6c581/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69616e736873696e67683130266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpratapsinghbeter&layout=compact&theme=radical)</br>
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekpratapsinghbeter&color=blueviolet)
 
