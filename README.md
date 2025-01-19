@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats, Most Used Languages, and Profile Views
 
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekpratapsinghbeter&show_icons=true&theme=radical)  </br>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?username=abhishekpratapsinghbeter&theme=dark&hide_border=false)</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhishekpratapsinghbeter&theme=dark&card_width=555&card_height=225)](https://git.io/streak-stats)</br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpratapsinghbeter&layout=compact&theme=radical)</br>
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishekpratapsinghbeter&color=blueviolet)
 
@@ -52,9 +52,8 @@
 ---
 
 
-## 🔝 Top Contributed Repo
-![Contributor Stats](https://github-readme-contributor-stats.vercel.app/api?username=abhishekpratapsinghbeter&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+## 🔝 Contribution Graph
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekpratapsinghbeter&bg_color=000000&color=0fb37c&line=0fb37c&point=0fb37c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
