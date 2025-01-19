@@ -32,6 +32,16 @@
 - Staying at the forefront of technology and collaborating with the developer community.  
 
 ---
+
+📊 GitHub Stats, Most Used Languages, and Profile Views
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekpratapsinghbeter&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpratapsinghbeter&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekpratapsinghbeter&color=blueviolet)
+
+
+
+
 ## 📫 How to Reach Me  
 - 💼 [LinkedIn](www.linkedin.com/in/abhishek-pratap-singh-88523a207)  
 - 📧 Email: [abhishekpratapsinghb2024@gmail.com](mailto:abhishekpratapsinghb2024@gmail.com)  
