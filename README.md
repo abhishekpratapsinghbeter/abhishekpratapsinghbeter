@@ -62,7 +62,7 @@
 
 - 🌐 [Portfolio](http://abhishekpratapsingh.netlify.app/)
 - 💼 [LinkedIn](www.linkedin.com/in/abhishek-pratap-singh-88523a207)  
-- 📧 Email: [abhishekpratapsinghb2024@gmail.com](mailto:abhishekpratapsinghb2024@gmail.com)  
+- 📧 Email: [abhishekpratapsingh1234@gmail.com](mailto:abhishekpratapsingh1234@gmail.com)  
 
 ---
 
