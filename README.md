@@ -26,7 +26,10 @@ A smart, **facial & QR-based attendance system** using React, Node.js, and Mongo
 A modern blogging platform to **create, manage, and share articles** with a clean, responsive UI.
 
 ### 🏋️ [Noble Saint Website](https://github.com/abhishekpratapsinghbeter/Noble-Saint-Website)
-A professional **fitness and transformation management platform** for workout tracking, member management, and showcasing transformations.
+A Website to Showcase the **NOBLE SAINT** Transformation.
+
+### 🏋️ [Noble Saint Management](https://github.com/abhishekpratapsinghbeter/MERN-Stack/tree/main/Noble-saint-management)
+A solution to streamline **gym operations and member management** .  
 
 ### 🌐 [Portfolio](https://abhishekpratapsingh.netlify.app/)
 My personal portfolio showcasing projects, skills, and contact information.
@@ -35,7 +38,7 @@ My personal portfolio showcasing projects, skills, and contact information.
 
 ## 🚧 Upcoming Projects
 
-- 🤖 **AI Assistant (Jarvis-inspired):** Using Tacotron-2 + Mozilla DeepSpeech for conversational TTS/STT.
+- 🤖 **AI Assistant:** Using Tacotron-2 + Mozilla DeepSpeech for conversational TTS/STT.
 - 🚀 **Portfolio Enhancements:** Interactive animations and additional features.
 - 🛠️ **Open Source Contributions:** To AI and full-stack developer communities.
 
